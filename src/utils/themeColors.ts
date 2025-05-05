@@ -13,7 +13,7 @@ export type AppTheme = {
   export const lightTheme: AppTheme = {
     background: "#FFFFFF",
     card: "#F9F9F9",
-    primary: "#5F2DED",
+    primary: "#205781",
     secondary: "#EEE8FD",
     text: "#1E1E1E",
     textSecondary: "#9E9E9E",
